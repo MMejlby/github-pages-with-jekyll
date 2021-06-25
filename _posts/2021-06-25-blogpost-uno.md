@@ -1,7 +1,8 @@
 ---
-title: A Blog post
-author: MM
+Title: "A Blog post"
+Date: 2021-06-25
+Author: MM
 ---
 
-This is a very interesting blogpost
+This certainly is a very interesting blogpost
 
